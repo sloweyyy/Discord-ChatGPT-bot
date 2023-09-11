@@ -1,4 +1,3 @@
-
 # Discord ChatGpt Bot
 
 The bot now uses the official ChatGpt API. :tada: This means you can expect more reliable and consistent responses from the bot.
@@ -9,29 +8,10 @@ We now have a convenient dashboard for configuring the bot, eliminating the need
 
 commands :
 
-* You can ask anything with ```/ask 'question'```
-* You can generate images with ```/image 'prompt'```
-* You can edit other members' pp with ```/remix @mentionuser prompt```
-* You can generate videos with ```/video prompt```
-
-## [You can test it on discord](https://discord.gg/xggt6w6Sz4)
-
-Screenshots :
-
-![Screenshot_6](https://raw.githubusercontent.com/onury5506/Discord-ChatGPT-Bot/master/screen_shot/Screenshot_6.jpg)
-
-![Screenshot_1](https://raw.githubusercontent.com/onury5506/Discord-ChatGPT-Bot/master/screen_shot/Screenshot_1.jpg)
-
-  
-
-![Screenshot_3](https://raw.githubusercontent.com/onury5506/Discord-ChatGPT-Bot/master/screen_shot/Screenshot_3.jpg)
-
-  
-
-![Screenshot_4](https://raw.githubusercontent.com/onury5506/Discord-ChatGPT-Bot/master/screen_shot/Screenshot_4.jpg)
-
-
-![Screenshot_5](https://raw.githubusercontent.com/onury5506/Discord-ChatGPT-Bot/master/screen_shot/Screenshot_5.jpg)
+-   You can ask anything with `/ask 'question'`
+-   You can generate images with `/image 'prompt'`
+-   You can edit other members' pp with `/remix @mentionuser prompt`
+-   You can generate videos with `/video prompt`
 
 ## How to run it?
 
